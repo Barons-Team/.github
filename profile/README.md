@@ -69,11 +69,11 @@
 </p>
 
 <p align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com?user=Barons-Team&theme=holi-theme&locale=de">
+   <img src="https://github-readme-streak-stats.herokuapp.com?user=7ucg&theme=holi-theme&locale=de">
    <br>
-   <img src="https://github-readme-stats.vercel.app/api?username=Barons-Team&show_icons=true&theme=chartreuse-dark">
+   <img src="https://github-readme-stats.vercel.app/api?username=7ucg&show_icons=true&theme=chartreuse-dark">
    <br>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barons-Team&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_priva">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=7ucg&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_priva">
 </p>
 
 </body>
